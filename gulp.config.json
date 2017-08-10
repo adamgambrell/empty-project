@@ -1,0 +1,25 @@
+{
+    "projectName": "EmptyProjectnpm in",
+    "assets": {
+        "css": {
+            "bootstrap": "./node_modules/bootstrap/dist/css/bootstrap.min.css"
+        },
+        "js": {
+            "jquery": "./node_modules/jquery/dist/jquery.min.js",
+            "tether": "./node_modules/tether/dist/js/tether.min.js",
+            "bootstrap": "./node_modules/bootstrap/dist/js/bootstrap.min.js"
+        }
+    },
+    "src": {
+        "projectSrc": "./src/",
+        "html": "./src/",
+        "styles": "./src/styles/",
+        "scripts": "./src/scripts/"
+    },
+    "dist": {
+        "projectDist": "./dist/",
+        "startPage": "index.html",
+        "css": "./dist/css/",
+        "js": "./dist/js/"
+    }
+}

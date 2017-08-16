@@ -40,7 +40,7 @@ function returnJSAssets() {
 }
 
 //start the local dev server and watch for changes in wwwroot
-gulp.task('init:Server', ['copy:Libraries'], function() {
+gulp.task('init:Server', ['copy:Libraries', 'scss:Site'], function() {
     browserSync.init({
         server: {
             baseDir: config.dist.projectDist,

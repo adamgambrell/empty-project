@@ -6,7 +6,7 @@
         },
         "js": {
             "jquery": "./node_modules/jquery/dist/jquery.min.js",
-            "tether": "./node_modules/tether/dist/js/tether.min.js",
+            "popper": "./node_modules/popper.js/dist/umd/popper.min.js",
             "bootstrap": "./node_modules/bootstrap/dist/js/bootstrap.min.js"
         }
     },

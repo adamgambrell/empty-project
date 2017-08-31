@@ -1,5 +1,5 @@
 {
-    "projectName": "EmptyProjectnpm in",
+    "projectName": "EmptyProject",
     "assets": {
         "css": {
             "bootstrap": "./node_modules/bootstrap/dist/css/bootstrap.min.css"
